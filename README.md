@@ -1,18 +1,18 @@
 # PROJECT-TASK-MANAGER
 
-Project Code
+# Project Code
 
 WST21-PM-2026-SF
 
-Student Name
+# Student Name
 
 Arven Q. Sotero
 
-Course & Year
+# Course & Year
 
 BSIT-2
 
-Database Used
+# Database Used
 
 SQLite
 
